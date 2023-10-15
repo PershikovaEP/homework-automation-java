@@ -9,5 +9,5 @@
      [генерация тестовых данных, использование lombok](https://github.com/PershikovaEP/testMode-RestAssured-Selenide),   
      [Page Object](https://github.com/PershikovaEP/PageObject),   
      [docker-image](https://github.com/PershikovaEP/docker-image),   
-     [docker-posrgres](https://github.com/PershikovaEP/docker-postgres),   
+     [docker-postgres](https://github.com/PershikovaEP/docker-postgres),   
      [sql](https://github.com/PershikovaEP/SQL)
